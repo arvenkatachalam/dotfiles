@@ -3,5 +3,9 @@
     "allow": [
       "Bash(ls:*)"
     ]
-  }
+  },
+  "enabledMcpjsonServers": [
+    "obsidian"
+  ],
+  "enableAllProjectMcpServers": true
 }
